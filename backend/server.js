@@ -8,6 +8,6 @@ app.get("/", (req ,res ) => {
     res.send("api tested successfully !!")
 })
 
-app.get("" , ()=>{
+app.get("/api/chats" , ()=>{
     
 })
